@@ -9,7 +9,7 @@
     /* margin-top: 25px; */
     padding: 5px 20px;
     /* background-image: radial-gradient( circle at 40% 20%,  rgb(160, 235, 232) 0%, rgb(118, 136, 184) 90% ); */
-    background: linear-gradient(360deg, rgb(173, 235, 233) 0%, rgb(141, 162, 219) 100%);
+    background: linear-gradient(360deg, rgb(173, 235, 233) 0%, rgb(141, 175, 219) 100%);
     border-radius: 10px;
   }
   /* .bgimg{
