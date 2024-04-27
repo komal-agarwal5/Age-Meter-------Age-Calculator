@@ -19,13 +19,13 @@ This project is a simple age calculator website built using React.js. It allows 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/komal-agarwal5/age-calculator.git
+    git clone https://github.com/komal-agarwal5/Age-Meter-------Age-Calculator.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd age-calculator
+    cd age-meter-------age-calculator
     ```
 
 3. Install dependencies:
@@ -46,12 +46,25 @@ This project is a simple age calculator website built using React.js. It allows 
 
 3. Enter your birth date and click on the "Calculate Age" button to see your age.
 
+OR 
+
+You can directly click on the deployed link given in the description and visit the site.
+
 ## Contributing
 
-Contributions are welcome! If you have any ideas for improvements, feel free to open an issue or submit a pull request.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. Please make sure to update tests as appropriate.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<a href="https://github.com/komal-agarwal5/Age-Meter-------Age-Calculator/blob/main/LICENSE">Apache License 2.0  © Komal Agarwal </a>
+
+## Where to contact ?
+Contact: [komal.agarwal0709@gmail.com]
+
+## Support
+
+💙 If you like this project, do give it a ⭐ and share it with your friends!<br><br>
 
 ---
+
+Made with ❤️ by Komal Agarwal <br><br>
